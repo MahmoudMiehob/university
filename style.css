@@ -1,0 +1,105 @@
+
+
+.navbar-brand{
+    
+	font-size: 30px;
+	font-style: italic;
+
+}
+
+.col-sm-3 {
+	background-color: black;
+	opacity: .7;
+	color: white;
+    border: 1px;
+    border-radius: 25px;
+
+}
+
+ .doktors{
+	background-color: #EEE;
+
+
+}
+
+
+
+.it h2, .ce h2, .ice h2, 
+.art h2, .doktor h2, 
+.dandoktor h2, .ke h2, .mk h2
+, .fe h2, .ze h2, .be h2, .mn, .career{
+
+	font-style: italic;
+    border: 1px;
+    border-radius: 25px;
+    background-color: blue;
+    opacity: .8;
+    color: white;
+   
+  
+}
+.footer{
+    
+   background-color: black;
+    height: auto;
+    width: auto;
+    border: 1px;
+    border-radius: 10px;
+}
+.MNM{
+    
+    color: blue;
+    padding-top: 1px;
+    padding-bottom: 10px;
+    text-decoration-line: underline;
+}
+.col-sm-4{
+    
+    color: white;
+    margin-bottom: 15px;
+    padding-top: 20px;
+   
+}
+.col-sm-4 p{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+   
+   
+}
+.mm{
+    
+    color: white;
+    font-style: italic; 
+    padding-top: 10px;
+    display:inline-block;
+    font-size: 30px;
+    text-align: left;
+    
+}
+
+
+.local{
+    background-color: blue;
+    border: 1px;
+    border-radius: 50px;
+   
+}
+.it , .ice, .doktors, .ce, .art, .dandoktor, .ke, .mk , .ze, .fe, .me
+{
+    
+    border:1px;
+    border-radius: 25px;
+
+   
+}
+
+table, tr , td{
+    
+    border: 1px;
+}
+.col-sm-9 p span{
+    font-weight: bold;
+    font-size: 30px;
+}
+
